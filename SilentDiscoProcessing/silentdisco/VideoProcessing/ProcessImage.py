@@ -150,7 +150,7 @@ def otsu_base(imin, gauss = None):
     return otsuim
 
 
-def otsu_threshold(imin, gauss = None):
+def otsu_threshold_test(imin, gauss = None):
     """ Perform Otsu thresholding.
     
     Args:
