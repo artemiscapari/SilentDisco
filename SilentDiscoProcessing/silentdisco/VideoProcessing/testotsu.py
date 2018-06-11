@@ -1,7 +1,7 @@
 from ProcessVideo import *
 from ProcessImage import *
 
-imname = "/Users/Nelson/Desktop/Bromo.jpg"
+imname = "~/Desktop/silent.jpg"
 
 image = read_image(imname)
 print image.shape
