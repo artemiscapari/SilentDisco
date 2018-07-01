@@ -1,8 +1,0 @@
-Teruggaan naar git versie van bestand:
-rm bestandnaam
-git checkout bestandnaam
-
-gc
-
-
-
